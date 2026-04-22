@@ -1,0 +1,6 @@
+List of Fonts used in template 
+
+Acme		http://www.google.com/webfonts/specimen/Acme
+Anton		http://www.google.com/webfonts/family?family=Anton&subset=latin
+Devonshire	http://www.google.com/webfonts/specimen/Devonshire
+Shojumaru	http://www.google.com/webfonts/specimen/Shojumaru
